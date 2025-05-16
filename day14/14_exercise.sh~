@@ -1,0 +1,8 @@
+#!/bin/bash
+
+while read p
+do
+	array=$(echo "${P}" | sed "s/,/ /g")
+	echo "${array[@]}"
+done < "./input/input.csv"
+
