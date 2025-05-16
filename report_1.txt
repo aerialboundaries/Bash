@@ -1,2 +1,0 @@
-You can efficiently back up version of mamy file.
-You can also easily revert files to any version.
